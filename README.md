@@ -1,6 +1,8 @@
 # coffee_model
 This app will use machine learning to reccomend a coffee drink based on the user's preferences.
 
+Please view this readme in code mode.
+
 First read sample data from xls or csv file.
 Then, perform exploratory data analysis (EDA) of sample data. EDA includes:
   Removing duplicates

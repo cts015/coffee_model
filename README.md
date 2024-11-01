@@ -11,6 +11,6 @@ Then, perform exploratory data analysis (EDA) of sample data. EDA includes:
 The app will then categorize the data into targets and features.
 Use pickle in another coffee_exercise.ipynb to encode the target categorical labels and create label_encoder.pkl.
 Perform a test-train split
-Test multiple models and assess them by root mean squared error.
+Test multiple machine learning models and assess them by root mean squared error.
 Once the best model is selected based on RMSE, create a pickle file best_model.pkl to encode for the best model of those tested.
 Code for Gradio GUI and copy app.py, requirements.txt, best_model.pkl, and label_encoder.pkl to a huggingface space with gradio.
